@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="BreakerSpace"
+   version="1.1"
+   viewBox="0 0 1024 1024"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <rect
+     x="447.05801"
+     y="-277.01935"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="447.05801"
+     y="-50.745167"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="673.33215"
+     y="-277.01935"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="447.05801"
+     y="175.52901"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="899.60632"
+     y="-277.01935"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="673.33215"
+     y="175.52901"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+  <rect
+     x="899.60632"
+     y="-50.745167"
+     fill="#def"
+     stroke="#def"
+     stroke-width="4"
+     height="192"
+     width="192"
+     rx="48"
+     ry="48"
+     transform="rotate(45)" />
+</svg>
